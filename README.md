@@ -1,2 +1,2 @@
-# Class-Alpha
-.....
+# collisionAlgorithm
+Algorithm to detect collision between two objects
